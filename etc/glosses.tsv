@@ -1,0 +1,54 @@
+ID	GLOSS	GLOSS_LONG	LGR_ABBREVIATION	LGR_GLOSS	GLOSS_IN_SOURCE	OCCURRENCE	CONCEPT_IN_SOURCE	FORMS		
+1	TOP	topic marker	TOP 	topic	TOP	285	TOP	ŋuəȵi	jə-tʂ-ŋuəȵi, zuɑmə-ɸu o-ʐgu-tɑ	two-CL-TOP cypress-tree one-CL-LOC
+2	ADV	aderbial marker	ADV 	adverb(ial)	ADV	197	ADV	tɕi // ȵi // ȵi104 // ȵi110	i-pi-χuɑ-ȵi, ɦo-mu-xtɕu-wei. steke-tɑ mi peʴʐə-s	DIR-hide-because-ADV DIR-NEG-burn-HS later-LOC people raise(child)-NOM
+3	INT	interjection, intensifier	 		INT	507	INT	a // a: // ha // hai! // hɑtu // jɑ // mi // ta // ŋuəȵi // ɑ // ɦa // ɦala // ɦɑ // ɦɑ: // ɦɑlɑ // ɦɑlə // ɦɑta // ɦɑthɑ // ɦɑtɑ // ɦɑtə	ɣʐə-jy, ɦɑlɑ tə-suɑ-ȵi dʐuků	able-ASP INT DIR-divine-ADV knowledge
+4	COM	comitative marker	COM 	comitative	COM	64	COM	ȵike // ȵɑ	we-i, zəp-le: ə-tɕhəqhɑ-ʐ-əi. mə ȵɑ ɣlu	exist-HS earth-DEF:CL DIR-burn-CAUS-HS older.brother COM younger.sister
+5	GEN	genitive marker	GEN 	genitive	GEN	36	GEN	tɕ // tɕə	“ɦa, qɑ tshəntɕɑ qɑpə-tɕ ʂpəl ȵɑ ɕtɕi:mi	EXCL 1sg Chen.family old.man-GEN kidney COM heart
+6	REP	repetition (‘again‘) marker	RECP 	reciprocal	REP	33	REP	ja // jə	kə-jə-kəi-tu,	go-REP-NAR-LNK
+7	LNK	clause linker			LNK	317	LNK	tu // tu118 // wu // ȵi // ȵiɑu // ʂ // ʂɑ // ʂə	juɑnʁuɑi, (pitɕ-ŋuəȵi “ʐmətʂi” ʂpi-ʂ qə:ʴ-ŋuəȵi “juɑnʁuɑi”	emperor now-TOP emperor call-LNK before-TOP emperor
+8	ASP				ASP	22	ASP	jy // jy123 // jya // jyɑ	ɣʐə-jy, ɦɑlɑ tə-suɑ-ȵi dʐuků	able-ASP INT DIR-divine-ADV knowledge
+9	CSM	change of state marker			CSM	34	CSM	i // j // ja // ji // jɑ // jə	zəp-le: ȵi-ke: pe-ji	earth-DEF:CL WH-INDEF:CL become-CSM
+10	CL	classifier	CLF 	classifier	CL	441	CL	e: // fən // ka: // ke: // kou // kuo // kəzzi // la: // le: // lou // lɑ // lɑ: // lɑw // lə // lə114 // ləzzi // ne: // ou // qu // ste // sɑ // ta: // te: // thou // tou // tse: // tsou // tsəizzi // tsəzzi // tɑu // tɕi // tʂ // tʂɑ // xʂe // ze // zi // zə // ɑz // ɸi // ʐgu	dɑ-qɑ-kəi-tu, bɑ-la:-ʁɑ e-tʂepe-kəi. ɦɑ-tu tshəntitɕhin-ŋuəȵi ep	DIR-go-NAR-LNK flat.area.on.side.of.hill-DEF:CL-LOC DIR-encounter-NAR INT-RESULT Chen.Diqing-TOP father
+11	CAUS	causative suffix	CAUS 	causative	CAUS	24	CAUS	ʐ // ʐɑ // ʐɑ:? // ʐə // ʐ̥ə	we-i, zəp-le: ə-tɕhəqhɑ-ʐ-əi. mə ȵɑ ɣlu	exist-HS earth-DEF:CL DIR-burn-CAUS-HS older.brother COM younger.sister
+12	ABL		ABL 	ablative	ABL	11	ABL	wu	ɦei-bi-ȵi, ʁu-q-tɑ-wu	DIR-carry.on.back-ADV mountain-head-LOC-ABL
+13	HABIT	habitual action marker			HABIT	10	HABIT	kəpə	nu-lu-kəpə-kəi, ɦɑ-tu mɑ:-le:-tɕ-ŋuəȵi χaiʂə ɕi-ŋuəȵi χaiʂə ɦɑ-tsəi pɑntɕin lie-kəpə-kui-wɑ. ɦɑ-tə sawu-le: tɕiu a! ɦɑlɑ satʂů-le:-tɑ	DIR-come-HABIT-NAR INT-RESULT mama-DEF:CL-BEN-TOP †(still.is) wine-TOP †(still.is) INT-this.manner half.catty carry-HABIT-NAR-EMPH INT-RESULT older.sister-DEF:CL †(then) EXCL INT younger.sister-DEF:CL-LOC
+14	DIR	directional prefix			DIR	708	DIR	a // da // de // die // do // du // dɑ // e // ha // he // ho // hɑ // i // ne // nu // nə // o // su // sə // ta: // te // ti // tu // tə // u // zu // zə // ɑ // ɑ: // ə // ɦa // ɦe // ɦei // ɦo // ɦɑ	zə-lɑ-ȵi,	DIR-come-ADV
+15	DAT	dative marker	DAT 	dative	DAT	8	DAT	tɑ	u-mu-tɕu-le, tɕile qəti ɦe-me-se.” ʐmətʂi-le:-tɑ-ŋuəȵi ɦɑ-kə jɑutɕhiu-tu-pu-k-kui-stu. ɦɑ-tu	DIR-NEG-see-because 1pl kill DIR-NEG-allow emperor-DEF:CL-DAT-TOP INT-thus demand-DIR-do-go-NAR-PART INT-RESULT
+16	PART	clause /sentence final particle			PART	81	PART	hɑ // stu // stun // stũ // tɕu // ȵiɑu	ɦɑ-thu-ŋuəȵi, quəquɑ a-χə-ȵi dɑ-qə-kəi-hɑ. dɑ-qɑ dɑ-qɑ	INT-there-TOP fight DIR-stop-LNK DIR-go-NAR-PART DIR-go DIR-go
+17	DTV	directive particle			DTV	26	DTV	bɑ // pɑ // wɑ // ʂu	du-ɸu-n-pɑ, qɑ-ŋuəȵi tsoqpi jəpɑ-q ɦɑ-mə-ʁə-ʂə mɑ-l-jyɑ.” ikə jə-ȵi ɦɑlɑ	DIR-run.away-2sg-DTV 1sg-TOP this:family hand-top DIR-NEG-go-LNK NEG-able-ASP:1sg thus say-ADV INT
+18	DEF	definite marker	DEF 	definite	DEF	366	DEF	kou // la: // le // le: // lo // lou // louqpi // lɑ // lɑ: // lɑw // lɑχ // lə // ləzzi // ne: // ta: // te: // tou // tɑ	ɦɑ-nə-kəi, ɕtɕiɕtɕaq-tou-ŋuəȵi ɦɑlɑ mə-lɑw-ʐɑχuɑ	DIR-sleep-NAR magpie-DEF:one:CL-TOP INT fire-DEF:one:pile-inside
+19	HS	hearsay marker			HS	24	HS	i // ji // jə // wei // əi	we-i, zəp-le: ə-tɕhəqhɑ-ʐ-əi. mə ȵɑ ɣlu	exist-HS earth-DEF:CL DIR-burn-CAUS-HS older.brother COM younger.sister
+20	HORT	hortative marker			HORT	6	HORT	ʂɑ	kə-qəstɑ, u-tɕu-jɑ-ȵi ɑ-phɑu qhu-ʂɑ.” jə-kəi. ɑ-phɑu	go-not.as.good.as DIR-see-CSM:1sg-ADV one-shot shoot-HORT say-NAR one-shot
+21	EXC	exclusion particle	EXCL 	exclusive	EXC	10	EXC	ji // jə // tɕi	sə-tɕ-kəi, ɦɑlɑ ʂəpɑn-le: ɕa-la: tə-qe-kəi-tu. ɕa-la:-ji tə-tsi	DIR-drink-NAR INT stone.slab-DEF:CL small-DEF:CL DIR-lift-NAR-LNK small-DEF:CL-EXC DIR-lift
+22	......				......	4	......		ɦɑ-tu, jɑutsan-le:-ŋuəȵi tə-pian-thɑ-ji ŋuə-kui-wɑ. ...... ...... ʐmətʂi-le:-ŋuəȵi “meʴʐ kə	INT-RESULT man.eating.demon-DEF:CL-TOP DIR-change-AUX-CSM COP-NAR-EMPH ...... ...... emperor-DEF:CL-TOP seek go
+23	AUX	auxiliary particle for monosyllabic Chinese loan words	AUX 	auxiliary	AUX	21	AUX	thɑ // thə	lɑn-thə-m ke: məʴʂ qe:ʴ-qe:ʴ	lazy-AUX-NOM INDEF:CL story before-before
+24	INDTV	indirect directive marker	IND 	indicative	INDTV	17	INDTV	a: // lɑ // ta: // tɑ: // ɑ: // ɕa: // ɕɑ:	ŋuə-tu, ɕtɕə-p le-ȵi ləɣz ɑ:-su-k-wɑ. tsi	COP-LNK seven-years exist-ADV book DIR:INDTV-study-go-DTV daughter
+25	NOM	nominalizer			NOM	94	NOM	m // meʴwu // mə:ʴwu // s // tɕ // əm // əs	ɣʐə-tɕ, ɦɑ-kɑ-hɑn	able-NOM INT-INDEF:one-kind
+26	COP	copula	COP 	copula	COP	145	COP	ŋueʴ // ŋuɑ // ŋuə // ŋ̥u̥ə // ŋ̥u̥ə̥	ɕɑ:-ŋuɑ,	INDTV-COP:1sg
+27	RESULT	this form makrs a transition in the Texts, and was often translated by the Chinese word jéguǒ ‘result‘	RES 	resultative	RESULT	145	RESULT	tu // tə	nu-lu-kəpə-kəi, ɦɑ-tu mɑ:-le:-tɕ-ŋuəȵi χaiʂə ɕi-ŋuəȵi χaiʂə ɦɑ-tsəi pɑntɕin lie-kəpə-kui-wɑ. ɦɑ-tə sawu-le: tɕiu a! ɦɑlɑ satʂů-le:-tɑ	DIR-come-HABIT-NAR INT-RESULT mama-DEF:CL-BEN-TOP †(still.is) wine-TOP †(still.is) INT-this.manner half.catty carry-HABIT-NAR-EMPH INT-RESULT older.sister-DEF:CL †(then) EXCL INT younger.sister-DEF:CL-LOC
+28	EVID				EVID	2	EVID	jy	die-ʂe-jy, ɦa! ʔile ep-te: lə tsoqpi ȵɑ quəquɑ-s-tɑ-ŋuəȵi	DIR-die-ASP:EVID EXCL 1pl father-DEF:CL also this:family COM fight-NOM-LOC-TOP
+29	PRS	prospective aspect suffix	PRS 	present	PRS	36	PRS	dzɑ: // ka: // kɑ: // lɑ: // pɑ: // qəta: // qətia: // xtʂəpɑ: // ɑ: // ɑ:ʴ // ʐa: // ʐɑ:? // χɬɑ:	meʴʐe:ʴ, ep-te: kənti e: ŋuə-k-ɑ:ʴ-tɕi?	seek:1pl father-DEF:CL jointly one:CL COP-INF-PRS:1pl-Q
+30	LOC	locative marker (includes the use of the locative markers to mark temporal or other relations)	LOC 	locative	LOC	204	LOC	lɑ // lə // qəpɑtʂɑ: // tɑ // tɕɑ: // tɕɑl // ʁa // ʁɑ // ʁɑ112 // ʁə	ɦɑlɑ, “ʔile tɕɑ: ka:-i-wɑ?”	there 2pl where:LOC go:PRS-2pl-Q
+31	CON	continuative aspect	COND 	conditional	CON	9	CON	tɕe // tɕi // tɕo	mɑ-ɣʐə-kəi-ʂə, ɦɑ: tɕe-zei-kəi-stũ.	NEG-able-NAR-LNK INT CON-cry-NAR-PART
+32	NEG	negative prefixe	NEG 	negation, negative	NEG	95	NEG	ma // me // mo // mu // mɑ // mə	i-pi-χuɑ-ȵi, ɦo-mu-xtɕu-wei. steke-tɑ mi peʴʐə-s	DIR-hide-because-ADV DIR-NEG-burn-HS later-LOC people raise(child)-NOM
+33	INST	instrumental marker	INS 	instrumental	INST	2	INST	wu	tə-khueq, duɑʁl-le:-wu sə-xte-ȵi tɕetɕi-lɑ da-ʁů. steke	DIR-angry scythe-DEF:CL-INST DIR-chop-LNK everywhere-LOC DIR-throw(away) later
+34	EXCL				EXCL	64	EXCL	a // a! // a: // e! // e:! // ha // ha! // hai // hai! // hi // hi! // hüa // hɑ // ɑ // ɦa // ɦa!	hɑ-sə-kəi-ʂə, “hi! ʂkup-te:-wu maha qɑ dzə	DIR-make.sound-NAR-LNK EXCL orangutan-DEF:CL-AGT night 1sg eat
+35	VIS	direct (usually visual) evidential marker			VIS	9	VIS	u // w // wu // ŋuɑ121	we-wu-ʂə, ɑ-χtʂ ɑ-χtʂ tɑ-hɑn	exist-VIS-LNK one-row one-row DEF:one-kind
+36	INDEF	indefinite marker	INDF 	indefinite	INDEF	70	INDEF	ka: // ke // ke: // kou // kɑ // kəzzi	ɦɑ-ka:-ʁɑ, ʐi-s-tɑ-ŋuəȵi qɑ	INT-INDEF:one:CL-LOC exist-NOM-LOC-TOP 1sg
+37						1			dɑ-qɑ-tu, upu-bəs-te: ɦɑ qhaʴʁue-lɑw-ʁɑ i-pə-k-	DIR-go-LNK uncle-snake-DEF:CL INT stone.pile-DEF:one:CL-LOC DIR-arrive-go-
+38	AGT	agentive marker			AGT	40	AGT	wu // wu111	thɑ-hɑn, ɦɑlɑ-ŋuəȵi ɦɑ-tu satʂů-le:-tʂi-le:-wu “pənsə u-su-ɑ-ʂə” jə-m-le:-wu,111 gəs dɑ-qɑ-ȵi	that:one-kind INT-TOP INT-RESULT younger-sister-DEF:CL-son-DEF:CL-AGT ability DIR-learn-1sg-LNK say-NOM-DEF:CL-AGT night DIR-go-ADV
+39	RESULT	this form makrs a transition in the Texts, and was often translated by the Chinese word jéguǒ ‘result‘	RES 	resultative	RESULT,	1	RESULT,	tu	ɦɑ-tu,	INT-RESULT,
+40	TOP	topic marker	TOP 	topic	†(TOP)	1	†(TOP)	jə	ə-ʑdʑ-ȵiantɕi, thɑnkhemu-jə	DIR-rest-after Thɑnkhemu-†(TOP)
+41	AMP				AMP119	1	AMP119	tɕeʴwu	ɦɑ-tsɑ-χui-ŋuəȵi, tshəntitɕhin ʔũ du-ɸu dʐə-tɕeʴwu	INT-this:one-time-TOP Chen.Diqing 2sg DIR-run.away able-AMP119:all
+42	DTV	directive particle			DVT	2	DVT	pɑ // wɑ	tɕɑ-tɕhi-n-pɑ,” jə-kui-tɕu. ɦɑ-kə	NEG.IMP-drink-2sg-DVT say-NAR-PART INT-thus
+43	IMP	imperative suffix	IMP 	imperative	IMP	1	IMP	nɑ	tse-n-nɑ-ʂ,	look-2sg-IMP-LNK
+44	NAR	narrative (hearsay) form made up of the inferential and hearsay particles (this abbreviation is used in the stories to save space)			NAR	428	NAR	kei // ku // kuai // kui // kuɑ // kuə // kəi // tɕi	dzə, ɦɑ-tu ɦɑ-kɑ-hɑn ŋuə. χuɑn-tɕhiɑnmeʴ-le: thɑ-hɑn ɦɑ-ke ŋuə-kuə-wɑ. ɦɑ-tu	eat INT-RESULT INT-INDEF:one-kind COP Huang-Qianmen-DEF:CL that:one-kind INT-thus COP-NAR-EMPH INT-RESULT
+45	INF	inferential/mirative evidential marker	INF 	infinitive	INF	20	INF	k // ka: // kɑ: // kə // kə: // x // ək	die-ʂe-jə-ka:-ji,	DIR-die-REP-INF:PRS-CSM
+46	Q	question marker	Q 	question particle/marker	Q	23	Q	tɕi? // wɑ // wɑ105 // wɑ? // ŋuɑ // ŋuɑ? // ŋuəi? // ɑ?	ataʐ-ʂɑ, a. qe:ʴ ɑ-s jə-s-ŋuəȵi. kɑ-zə dɑ-tɕ ɦe-si-ŋuɑ ɦe-me-si?” jə-ȵi ɦɑ-kə ŋuə-kui-wɑ.	fast-HORT INT before one-day two-day-TOP INDEF:one-CL DIR-find DIR-allow-Q DIR-NEG-allow say-ADV INT-thus COP-NAR-EMPH
+47	COMP	comparative marker	COMP 	complementizer	COMP	1	COMP	s	ɕtɕə-s-ŋuəȵi, “a tsə-s ɑz-ŋuəȵi ɕi-lɑ: ataʐ-ȵi u-ʐmu ȵɑ u-tɕu-s-le: ə-mə-s	seven-day-TOP EXCL this-COMP one:CL-TOP small-DEF:CL fast-ADV DIR-dream COM DIR-see-NOM-DEF:CL DIR-hear-NOM
+48	WH	interrogative pronoun			WH	13	WH	ȵa // ȵe // ȵi // ȵi:	ȵa-χtʂ, ɦɑ-thɑ ȵe-ɸi ŋuə	WH:one-row INT-there WH:one-CL COP
+49	COP	copula	COP 	copula	COP)	1	COP)	ʂə	“ha, pəs-ŋuəȵi ʐmətʂi sətsim-le: tɕiutɕin ʂə mi-le: ŋuə-ŋuɑ? jɑutsan	EXCL today-TOP emperor wife-DEF:CL †(actually COP) person-DEF:CL COP-Q man.eating.demon
+50	BEN	benefactive marker	BEN 	benefactive	BEN	1	BEN	tɕ	nu-lu-kəpə-kəi, ɦɑ-tu mɑ:-le:-tɕ-ŋuəȵi χaiʂə ɕi-ŋuəȵi χaiʂə ɦɑ-tsəi pɑntɕin lie-kəpə-kui-wɑ. ɦɑ-tə sawu-le: tɕiu a! ɦɑlɑ satʂů-le:-tɑ	DIR-come-HABIT-NAR INT-RESULT mama-DEF:CL-BEN-TOP †(still.is) wine-TOP †(still.is) INT-this.manner half.catty carry-HABIT-NAR-EMPH INT-RESULT older.sister-DEF:CL †(then) EXCL INT younger.sister-DEF:CL-LOC
+51	EMPH	emphatic sentence-final particle			EMPH	102	EMPH	ku // wa // wɑ	ɑ:-su-ku, hodʑy-p le-ȵi qɑ	DIR:INDTV-study-go:EMPH ten-year exist-ADV 1sg
+52	NEG.IMP				NEG.IMP	5	NEG.IMP	tɕe // tɕi // tɕo // tɕu // tɕɑ	ɦa-tɕi-ʁu-n, tɕile	DIR-NEG.IMP-throw-2sg 1pl
+53	REDUP				REDUP	2	REDUP	ʂəʂe:ʴwu // ʂəʂə:ʴwu	thəl, jɑnkhui ʂəʂə:ʴwu i-pə-l-kui-tɕu.	stone.pestle stone.mortar exist:REDUP:all DIR-arrive-come-NAR-PART

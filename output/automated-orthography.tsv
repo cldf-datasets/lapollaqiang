@@ -1,0 +1,231 @@
+Grapheme	IPA	Example	Count	Unicode
+^	NULL			
+$	NULL			
+u	u	phusuluq, qutaq	100	U+0075
+u$	u	wu, zu	100	U+0075 U+0024
+ə$	ə	jə, lə	100	U+0259 U+0024
+i$	i	tɕi, ɕi	100	U+0069 U+0024
+ɑ	ɑ	ɦɑlə, kɑnthɑn	100	U+0251
+ɑ$	ɑ	thɑ, lɑ	100	U+0251 U+0024
+ə	ə	χaiʂəχuijələjitian, suəsuɑ	100	U+0259
+i	i	χaiʂəχuijələjitian, tijikuojautɕhiu	100	U+0069
+e$	e	le, se	96	U+0065 U+0024
+p	p	ɑpə, ʂpɑʂpɑ	71	U+0070
+a	a	sawu, qutaq	60	U+0061
+^l	l	lə, le	60	U+005e U+006c
+n$	n	hɑn, tin	60	U+006e U+0024
+n	n	ȵiɑntɕi, tɑntɑ	56	U+006e
+^k	k	ku, ke	56	U+005e U+006b
+^s	s	se, sɑ	56	U+005e U+0073
+t	t	stu, steke	56	U+0074
+^ʂ	ʂ	ʂə, ʂe	55	U+005e U+0282
+^j	j	jə, ji	52	U+005e U+006a
+^q	q	qu, qe	52	U+005e U+0071
+^tɕ	tɕ	tɕi, tɕiu	50	U+005e U+0074 U+0255
+e	e	steke, sei	49	U+0065
+tɕ	tɕ	xʂuɕtɕu, ɕtɕi	46	U+0074 U+0255
+^m	m	mə, mi	45	U+005e U+006d
+^t	t	tu, tɑ	45	U+005e U+0074
+a$	a	ha, ʁza	43	U+0061 U+0024
+^p	p	pɑ, pə	42	U+005e U+0070
+l	l	ɦɑlɑ, tɕile	39	U+006c
+^χ	χ	χaiʂə, χuɑ	34	U+005e U+03c7
+^ʐ	ʐ	ʐə, ʐmu	34	U+005e U+0290
+^ts	ts	tsi, tsu	33	U+005e U+0074 U+0073
+q	q	tʂhəqtʂhɑqtʂhəqtʂhɑq, ts̥əqɑ	33	U+0071
+o	o	kou, khuoji	32	U+006f
+^ȵ	ȵ	ȵi, ȵi:	31	U+005e U+0235
+^ʁ	ʁ	ʁɑ, ʁu	31	U+005e U+0281
+^w	w	wu, wɑ	30	U+005e U+0077
+^ɕ	ɕ	ɕi, ɕtɕi	29	U+005e U+0255
+q$	q	qutaq, məq	26	U+0071 U+0024
+k	k	steke, ʂku	25	U+006b
+^th	tʰ	thɑ, thə	24	U+005e U+0074 U+0068
+tʂ	ʈʂ	qətʂi, ʐmətʂi	24	U+0074 U+0282
+^h	h	hɑ, ha	23	U+005e U+0068
+^ɦ	ɦ	ɦa, ɦɑlɑ	22	U+005e U+0266
+^z	z	zə, zu	22	U+005e U+007a
+z	z	ʁza, ʁza:	22	U+007a
+m	m	ʐmu, ʐmə	22	U+006d
+ɑ:$	ɑː	lɑ:, kɑ:	21	U+0251 U+003a U+0024
+^d	d	dzə, dzɑ	20	U+005e U+0064
+^tʂ	ʈʂ	tʂi, tʂə	18	U+005e U+0074 U+0282
+^g	g	gueʴ, gul	18	U+005e U+0067
+o$	o	mo, tɕo	17	U+006f U+0024
+^ph	pʰ	phi, phuxʂu	17	U+005e U+0070 U+0068
+ů$	<?>	ʁů, satʂů	16	U+016f U+0024
+ts	ts	pefutsə, kuɑntsɑ	16	U+0074 U+0073
+s	s	suəsuɑ, χɑusə	16	U+0073
+a:$	aː	ta:, ka:	15	U+0061 U+003a U+0024
+w	w	sawu, tuwɑ	15	U+0077
+^tʂh	tʂh	tʂhə, tʂhəqtʂhɑqtʂhəqtʂhɑq	14	U+005e U+0074 U+0282 U+0068
+l$	l	bəl, gul	14	U+006c U+0024
+p$	p	ʂp, tʂetup	14	U+0070 U+0024
+eʴ	eʴ	ɕtɕeʴpɕtɕeʴp, neʴwu	14	U+0065 U+02b4
+^n	n	nə, nɑ	14	U+005e U+006e
+^tsh	tsh	tshe, tshuə	13	U+005e U+0074 U+0073 U+0068
+^tɕh	tɕh	tɕhi, tɕhə	12	U+005e U+0074 U+0255 U+0068
+ʁ	ʁ	tɕiʁuɑ, duɑʁl	12	U+0281
+j	j	tijikuojautɕhiu, khuoji	11	U+006a
+ʂ	ʂ	χaiʂə, ʂpaʂpa	11	U+0282
+^b	b	bəl, bɑ	11	U+005e U+0062
+y$	y	jy, tɕy	10	U+0079 U+0024
+ɕ	ɕ	xʂuɕtɕu, lɑupeɕin	10	U+0255
+zz	zz	tsəzzi, kəzzi	10	U+007a U+007a
+?$	<?>	ʐɑ:?, wɑ?	10	U+003f U+0024
+χ	χ	ȵiχuɑ, χanχa:	9	U+03c7
+eʴ$	eʴ	gueʴ, qeʴ	9	U+0065 U+02b4 U+0024
+^ŋ	ŋ	ŋuəȵi, ŋuɑ	9	U+005e U+014b
+^x	x	xte, xtʂəpɑ:	9	U+005e U+0078
+tɕh	tɕh	ʁɑtɕhi, kɑntɕhi	9	U+0074 U+0255 U+0068
+^xʂ	xʂ	xʂuɕtɕu, xʂə	9	U+005e U+0078 U+0282
+^qh	qh	qhuɑ, qheʴ	8	U+005e U+0071 U+0068
+f	f	pefutsə, ȵiɑufu	8	U+0066
+^dʑ	dʑ	dʑe, dʑy	8	U+005e U+0064 U+0291
+tʂ$	ʈʂ	χquatʂ, kɑpətʂ	8	U+0074 U+0282 U+0024
+^ɣ	ɣ	ɣlu, ɣle	8	U+005e U+0263
+^tɕ$	tɕ	tɕ	8	U+005e U+0074 U+0255 U+0024
+th	tʰ	kɑnthɑn, ʂpəthuʂ	8	U+0074 U+0068
+əʴ	əʴ	pəʴʐə, məʴʂ	7	U+0259 U+02b4
+e:$	eː	le:, the:	7	U+0065 U+003a U+0024
+dʑ	dʑ	ʑdʑy, hodʑy	7	U+0064 U+0291
+s$	s	əs, pəs	7	U+0073 U+0024
+^ʂ$	ʂ	ʂ	7	U+005e U+0282 U+0024
+əʴ$	əʴ	ləʴ, ʁəʴ	7	U+0259 U+02b4 U+0024
+^ə	ə	əs, əw	7	U+005e U+0259
+^kh	kʰ	khuoji, khuə	7	U+005e U+006b U+0068
+^χs	χs	χsu, χsɑ	7	U+005e U+03c7 U+0073
+^ɑ	ɑ	ɑpə, ɑ?	7	U+005e U+0251
+ȵ	ȵ	ŋuəȵi, puȵu	7	U+0235
+i:$	iː	ȵi:, mi:	7	U+0069 U+003a U+0024
+^i$	i	i	6	U+005e U+0069 U+0024
+h	h	stuɑhɑ, maha	6	U+0068
+ʐ	ʐ	pəʴʐə, ataʐə	6	U+0290
+^f	f	fən, fusɑn	6	U+005e U+0066
+tʂh	tʂh	tʂhəqtʂhɑqtʂhəqtʂhɑq, wutʂhu	6	U+0074 U+0282 U+0068
+ʂ$	ʂ	ʂpəthuʂ, məʴʂ	6	U+0282 U+0024
+^l$	l	l	6	U+005e U+006c U+0024
+y	y	jyɑ, jya	6	U+0079
+tsh	tsh	mɑutshə, phɑntshə	5	U+0074 U+0073 U+0068
+e:ʴ$	eːʴ	gue:ʴ, meʴʐe:ʴ	5	U+0065 U+003a U+02b4 U+0024
+^dʐ	ɖʐ	dʐə, dʐuků	5	U+005e U+0064 U+0290
+m$	m	ȵim, sətsim	5	U+006d U+0024
+^ɑ$	ɑ	ɑ	5	U+005e U+0251 U+0024
+^i	i	ike, iʂə	5	U+005e U+0069
+w$	w	lɑw, əw	5	U+0077 U+0024
+^ʑ	ʑ	ʑdʑy, ʑdʑi	5	U+005e U+0291
+t$	t	qhuɑt, wet	5	U+0074 U+0024
+kh	kʰ	thɑnkhemu, akha	5	U+006b U+0068
+^ʔ	ʔ	ʔile, ʔileile	5	U+005e U+0294
+z$	z	gəz, lez	5	U+007a U+0024
+^a	a	ataʐ, akha	4	U+005e U+0061
+qh	qh	soqho, qhəʴqhəʴ	4	U+0071 U+0068
+^a$	a	a	4	U+005e U+0061 U+0024
+nʂ	nʂ	sunʂə, fɑntʂənʂə	4	U+006e U+0282
+^e	e	ep, epə	4	U+005e U+0065
+^s$	s	s	4	U+005e U+0073 U+0024
+^ɸ	ɸ	ɸu, ɸi	4	U+005e U+0278
+d	d	qodu, lde	4	U+0064
+u̥	u̥	ŋ̥u̥ə, ɑŋ̥u̥ə	4	U+0075 U+0325
+^p$	p	p	4	U+005e U+0070 U+0024
+^ɣʐ	ɣʐ	ɣʐə, ɣʐu	4	U+005e U+0263 U+0290
+g	g	ʐgu, tugantʂu	4	U+0067
+^ʐ$	ʐ	ʐ	3	U+005e U+0290 U+0024
+^a:$	aː	a:	3	U+005e U+0061 U+003a U+0024
+^o	o	ou, otsůquɑ	3	U+005e U+006f
+ɣ	ɣ	iɣi, ləɣz	3	U+0263
+^m$	m	m	3	U+005e U+006d U+0024
+i:	iː	ɕtɕi:miq, ȵi:tsəi	3	U+0069 U+003a
+ŋ	ŋ	tuŋtuŋ, ɦɑŋů	3	U+014b
+^w$	w	w	3	U+005e U+0077 U+0024
+tɕ$	tɕ	ɕtɕ, pitɕ	3	U+0074 U+0255 U+0024
+^ɑ:$	ɑː	ɑ:	3	U+005e U+0251 U+003a U+0024
+ɬ	ɬ	uɬu, χɬɑ:	3	U+026c
+o:	oː	ʐo:puɑ, ʐo:pɑ	3	U+006f U+003a
+ʐ$	ʐ	ataʐ, meʴʐ	3	U+0290 U+0024
+i!$	iǃ	hai!, hi!	3	U+0069 U+0021 U+0024
+^xs	xs	xsə	3	U+005e U+0078 U+0073
+^u	u	uɬu, un	3	U+005e U+0075
+^u$	u	u	2	U+005e U+0075 U+0024
+^q$	q	q	2	U+005e U+0071 U+0024
+^x$	x	x	2	U+005e U+0078 U+0024
+dʐ	ɖʐ	miɑuʁdʐue, ʁdʐe	2	U+0064 U+0290
+ə:ʴ	əːʴ	ʂəʂə:ʴwu, mə:ʴwu	2	U+0259 U+003a U+02b4
+e:ʴ	eːʴ	ʂəʂe:ʴwu, le:ʴwu	2	U+0065 U+003a U+02b4
+^ə$	ə	ə	2	U+005e U+0259 U+0024
+^ɬ	ɬ	ɬi, ɬɑ	2	U+005e U+026c
+d$	d	buzd	2	U+0064 U+0024
+^k$	k	k	2	U+005e U+006b U+0024
+xʂ	xʂ	phuxʂu	2	U+0078 U+0282
+ũ$	ũ	stũ, ʔũ	2	U+0169 U+0024
+aʴ	aʴ	qhaʴʁue, χsaʴwu	2	U+0061 U+02b4
+^o$	o	o	2	U+005e U+006f U+0024
+^e$	e	e	2	U+005e U+0065 U+0024
+^j$	j	j	2	U+005e U+006a U+0024
+^ts̥	ts̥	ts̥əqɑ	2	U+005e U+0074 U+0073 U+0325
+χ$	χ	meʴχ, lɑχ	2	U+03c7 U+0024
+a!$	aǃ	ɦa!, ha!	2	U+0061 U+0021 U+0024
+^n$	n	n	2	U+005e U+006e U+0024
+ŋ$	ŋ	tuŋtuŋ	2	U+014b U+0024
+nʐ	nʐ	sənʐə, shenʐə	2	U+006e U+0290
+^g$	g	g	2	U+005e U+0067 U+0024
+b	b	ʐbə, ʐbotɕu	2	U+0062
+ə:$	əː	kə:	2	U+0259 U+003a U+0024
+ə:ʴ$	əːʴ	tɕiqə:ʴ, qə:ʴ	2	U+0259 U+003a U+02b4 U+0024
+^ŋ̥	ŋ̊	ŋ̥u̥ə, ŋ̥u̥ə̥	2	U+005e U+014b U+0325
+e̊$	e̥	we̊	1	U+0065 U+030a U+0024
+k$	k	ək	1	U+006b U+0024
+^e:!$	eːǃ	e:!	1	U+005e U+0065 U+003a U+0021 U+0024
+110$	<?>	ȵi110	1	U+0031 U+0031 U+0030 U+0024
+ʔ	ʔ	ʂəʔəʴsui	1	U+0294
+^tʂ$	ʈʂ	tʂ	1	U+005e U+0074 U+0282 U+0024
+^e:$	eː	e:	1	U+005e U+0065 U+003a U+0024
+aʴ$	aʴ	qaʴ	1	U+0061 U+02b4 U+0024
+120$	<?>	stumpətʂe120	1	U+0031 U+0032 U+0030 U+0024
+118$	<?>	tu118	1	U+0031 U+0031 U+0038 U+0024
+122$	<?>	n122	1	U+0031 U+0032 U+0032 U+0024
+^sh	sh	shenʐə	1	U+005e U+0073 U+0068
+121$	<?>	ŋuɑ121	1	U+0031 U+0032 U+0031 U+0024
+ü	ü	hüa	1	U+00fc
+^tɕh$	tɕh	tɕh	1	U+005e U+0074 U+0255 U+0068 U+0024
+u:$	uː	ɣdu:	1	U+0075 U+003a U+0024
+^ʐ̥	ʐ̥	ʐ̥ə	1	U+005e U+0290 U+0325
+114$	<?>	lə114	1	U+0031 U+0031 U+0034 U+0024
+ə̃ʴ$	ə̃ʴ	ɦə̃ʴɦə̃ʴ	1	U+0259 U+0303 U+02b4 U+0024
+111$	<?>	wu111	1	U+0031 U+0031 U+0031 U+0024
+ns	ns	pənsə	1	U+006e U+0073
+ßh	ßh	tʂßhue	1	U+00df U+0068
+pɕ	pɕ	ɕtɕeʴpɕtɕeʴp	1	U+0070 U+0255
+^χʂ	χʂ	χʂə	1	U+005e U+03c7 U+0282
+^χʂ$	χʂ	χʂ	1	U+005e U+03c7 U+0282 U+0024
+ʑ	ʑ	qəʑdʑi	1	U+0291
+ɸ	ɸ	səɸů	1	U+0278
+^ɑ:ʴ$	ɑːʴ	ɑ:ʴ	1	U+005e U+0251 U+003a U+02b4 U+0024
+x$	x	meʴx	1	U+0078 U+0024
+^q̥	q̥	q̥əti	1	U+005e U+0071 U+0325
+104$	<?>	ȵi104	1	U+0031 U+0030 U+0034 U+0024
+dʑ$	dʑ	ʑdʑ	1	U+0064 U+0291 U+0024
+123$	<?>	jy123	1	U+0031 U+0032 U+0033 U+0024
+112$	<?>	ʁɑ112	1	U+0031 U+0031 U+0032 U+0024
+ŋ̥	ŋ̊	ɑŋ̥u̥ə	1	U+014b U+0325
+^l̥	l̥	l̥əlɑ	1	U+005e U+006c U+0325
+ə̥$	ə̥	ŋ̥u̥ə̥	1	U+0259 U+0325 U+0024
+ə̃ʴ	ə̃ʴ	ɦə̃ʴɦə̃ʴ	1	U+0259 U+0303 U+02b4
+115$	<?>	sɑ115	1	U+0031 U+0031 U+0035 U+0024
+109$	<?>	juɑnʁuɑi109	1	U+0031 U+0030 U+0039 U+0024
+^e!$	eǃ	e!	1	U+005e U+0065 U+0021 U+0024
+105$	<?>	wɑ105	1	U+0031 U+0030 U+0035 U+0024
+107$	<?>	tʂhe107	1	U+0031 U+0030 U+0037 U+0024
+ph	pʰ	gɑnphai	1	U+0070 U+0068
+ɑ:	ɑː	ʐɑ:?	1	U+0251 U+003a
+ɦ	ɦ	ɦə̃ʴɦə̃ʴ	1	U+0266
+ů	<?>	otsůquɑ	1	U+016f
+^ʁ$	ʁ	ʁ	1	U+005e U+0281 U+0024
+^ɕ$	ɕ	ɕ	1	U+005e U+0255 U+0024
+^a!$	aǃ	a!	1	U+005e U+0061 U+0021 U+0024
+ɸ$	ɸ	səɸ	1	U+0278 U+0024
+ʁ$	ʁ	wɑʁ	1	U+0281 U+0024
+tt	tt	kɑpətttʂ	1	U+0074 U+0074
+116$	<?>	s116	1	U+0031 U+0031 U+0036 U+0024
+a:	aː	ʂua:m	1	U+0061 U+003a
+^g̥	g̊	g̥u̥ə	1	U+005e U+0067 U+0325

@@ -1,0 +1,234 @@
+Grapheme	IPA	Example	Count	Unicode
+$	NULL			
+104$	NULL	ȵi104	1	U+0031 U+0030 U+0034 U+0024
+105$	NULL	wɑ105	1	U+0031 U+0030 U+0035 U+0024
+107$	NULL	tʂhe107	1	U+0031 U+0030 U+0037 U+0024
+109$	NULL	juɑnʁuɑi109	1	U+0031 U+0030 U+0039 U+0024
+110$	NULL	ȵi110	1	U+0031 U+0031 U+0030 U+0024
+111$	NULL	wu111	1	U+0031 U+0031 U+0031 U+0024
+112$	NULL	ʁɑ112	1	U+0031 U+0031 U+0032 U+0024
+114$	NULL	lə114	1	U+0031 U+0031 U+0034 U+0024
+115$	NULL	sɑ115	1	U+0031 U+0031 U+0035 U+0024
+116$	NULL	s116	1	U+0031 U+0031 U+0036 U+0024
+118$	NULL	tu118	1	U+0031 U+0031 U+0038 U+0024
+120$	NULL	stumpətʂe120	1	U+0031 U+0032 U+0030 U+0024
+121$	NULL	ŋuɑ121	1	U+0031 U+0032 U+0031 U+0024
+122$	NULL	n122	1	U+0031 U+0032 U+0032 U+0024
+123$	NULL	jy123	1	U+0031 U+0032 U+0033 U+0024
+?$	NULL	ʑdʑi?, ɑ?	10	U+003f U+0024
+^	NULL			
+^a	a/ɑ	ataʐ, ataʐə	4	U+005e U+0061
+^a!$	a/ɑ	a!	1	U+005e U+0061 U+0021 U+0024
+^a$	a/ɑ	a	4	U+005e U+0061 U+0024
+^a:$	aː/ɑː	a:	3	U+005e U+0061 U+003a U+0024
+^b	b	bɑ, buzd	11	U+005e U+0062
+^d	d	dzɑ, dzə	20	U+005e U+0064
+^dʐ	ɖʐ	dʐə, dʐi	5	U+005e U+0064 U+0290
+^dʑ	dʑ	dʑe, dʑiq	8	U+005e U+0064 U+0291
+^e	e	entɕi, ep	5	U+005e U+0065
+^e!$	e	e!	1	U+005e U+0065 U+0021 U+0024
+^e$	e	e	2	U+005e U+0065 U+0024
+^e:!$	eː	e:!	1	U+005e U+0065 U+003a U+0021 U+0024
+^e:$	eː	e:	1	U+005e U+0065 U+003a U+0024
+^f	f	fən, fu	6	U+005e U+0066
+^g	g	gi, gul	18	U+005e U+0067
+^g$	g	g	2	U+005e U+0067 U+0024
+^g̥u̥	g w	g̥u̥ə	1	U+005e U+0067 U+0325
+^h	h	hɑ, ha	23	U+005e U+0068
+^i	i	ikə, ike	5	U+005e U+0069
+^i$	i	i	6	U+005e U+0069 U+0024
+^j	j	jə, ji	52	U+005e U+006a
+^j$	j	j	2	U+005e U+006a U+0024
+^k	k	ku, ke	56	U+005e U+006b
+^k$	k	k	2	U+005e U+006b U+0024
+^kh	kʰ	khuoji, khuɑi	7	U+005e U+006b U+0068
+^l	l	lə, le	61	U+005e U+006c
+^l$	l	l	6	U+005e U+006c U+0024
+^l̥	ɬ	l̥əlɑ	1	U+005e U+006c U+0325
+^m	m	mə, mi	50	U+005e U+006d
+^m$	m	m	3	U+005e U+006d U+0024
+^n	n	nə, noʁu	15	U+005e U+006e
+^n$	n	n	2	U+005e U+006e U+0024
+^o	o	oqpi, otsůquɑ	3	U+005e U+006f
+^o$	o	o	2	U+005e U+006f U+0024
+^p	p	pɑ, pə	42	U+005e U+0070
+^p$	p	p	4	U+005e U+0070 U+0024
+^ph	pʰ	phi, phə	17	U+005e U+0070 U+0068
+^q	q	qu, qə	52	U+005e U+0071
+^q$	q	q	2	U+005e U+0071 U+0024
+^qh	qʰ	qhaʴʁue, qhuɑt	8	U+005e U+0071 U+0068
+^q̥	q	q̥əti	1	U+005e U+0071 U+0325
+^s	s	se, sə	56	U+005e U+0073
+^s$	s	s	4	U+005e U+0073 U+0024
+^sh	sʰ	shenʐə	1	U+005e U+0073 U+0068
+^t	t	tu, tɑ	46	U+005e U+0074
+^th	tʰ	thɑ, thə	24	U+005e U+0074 U+0068
+^ts	ts	tsu, tsi	33	U+005e U+0074 U+0073
+^tsh	tsʰ	tshuɑq, tshuə	12	U+005e U+0074 U+0073 U+0068
+^ts̥	ts	ts̥əqɑ	2	U+005e U+0074 U+0073 U+0325
+^tɕ	tɕ	tɕi, tɕiu	50	U+005e U+0074 U+0255
+^tɕ$	tɕ	tɕ	8	U+005e U+0074 U+0255 U+0024
+^tɕh	tɕʰ	tɕhi, tɕhə	12	U+005e U+0074 U+0255 U+0068
+^tɕh$	tɕʰ	tɕh	1	U+005e U+0074 U+0255 U+0068 U+0024
+^tʂ	ʈʂ	tʂi, tʂə	18	U+005e U+0074 U+0282
+^tʂ$	ʈʂ	tʂ	1	U+005e U+0074 U+0282 U+0024
+^tʂh	ʈʂʰ	tʂhə, tʂhu	14	U+005e U+0074 U+0282 U+0068
+^u	u	uɬu, un	3	U+005e U+0075
+^u$	u	u	2	U+005e U+0075 U+0024
+^w	w	wu, wɑ	30	U+005e U+0077
+^w$	w	w	3	U+005e U+0077 U+0024
+^x	x	xte, xkue	9	U+005e U+0078
+^x$	x	x	2	U+005e U+0078 U+0024
+^xs	x s	xsə	3	U+005e U+0078 U+0073
+^xʂ	x ʂ	xʂuɕtɕu, xʂə	9	U+005e U+0078 U+0282
+^z	z	zə, zu	22	U+005e U+007a
+^ŋ	ŋ	ŋuəȵi, ŋueʴ	10	U+005e U+014b
+^ŋ̥	ŋ	ŋ̥u̥ə, ŋ̥u̥ə̥	2	U+005e U+014b U+0325
+u̥	w	
+^ȵ	ȵ	ȵi, ȵi:	31	U+005e U+0235
+^ɑ	ɑ	ɑpə, ɑ?	7	U+005e U+0251
+^ɑ$	ɑ	ɑ	5	U+005e U+0251 U+0024
+^ɑ:$	ɑː	ɑ:	3	U+005e U+0251 U+003a U+0024
+^ɑ:ʴ$	ɑːʴ/ɑː	ɑ:ʴ	1	U+005e U+0251 U+003a U+02b4 U+0024
+^ɕ	ɕ	ɕi, ɕtɕi	29	U+005e U+0255
+^ɕ$	ɕ	ɕ	1	U+005e U+0255 U+0024
+^ə	ə	əm, əi	7	U+005e U+0259
+^ə$	ə	ə	2	U+005e U+0259 U+0024
+^ɣ	ɣ	ɣlu, ɣz	8	U+005e U+0263
+^ɣʐ	ɣ ʐ	ɣʐə, ɣʐu	4	U+005e U+0263 U+0290
+^ɦ	ɦ	ɦɑ, ɦa	23	U+005e U+0266
+^ɬ	ɬ	ɬɑ, ɬi	2	U+005e U+026c
+^ɸ	ɸ	ɸu, ɸi	4	U+005e U+0278
+^ʁ	ʁ	ʁɑ, ʁu	31	U+005e U+0281
+^ʁ$	ʁ	ʁ	1	U+005e U+0281 U+0024
+^ʂ	ʂ	ʂə, ʂpə	55	U+005e U+0282
+^ʂ$	ʂ	ʂ	7	U+005e U+0282 U+0024
+^ʐ	ʐ	ʐə, ʐmə	37	U+005e U+0290
+^ʐ$	ʐ	ʐ	3	U+005e U+0290 U+0024
+^ʐ̥	ʐ	ʐ̥ə	1	U+005e U+0290 U+0325
+^ʑ	ʑ	ʑdʑy, ʑdʑi	5	U+005e U+0291
+^ʔ	ʔ	ʔile, ʔũ	5	U+005e U+0294
+^χ	χ	χuɑ, χaiʂə	34	U+005e U+03c7
+^χs	χ s	χsɑ, χsu	7	U+005e U+03c7 U+0073
+^χʂ	χ ʂ	χʂə	1	U+005e U+03c7 U+0282
+^χʂ$	χ ʂ	χʂ	1	U+005e U+03c7 U+0282 U+0024
+a	a/ɑ	sawu, qutaq	63	U+0061
+a!$	a/ɑ	ɦa!, ha!	2	U+0061 U+0021 U+0024
+a$	a/ɑ	ʁza, ɦa	44	U+0061 U+0024
+a:	aː/ɑː	ʂua:m	1	U+0061 U+003a
+a:$	aː/ɑː	ka:, ta:	15	U+0061 U+003a U+0024
+aʴ	aʴ/ɑ	χsaʴwu, qhaʴʁue	2	U+0061 U+02b4
+aʴ$	aʴ/ɑ	qaʴ	1	U+0061 U+02b4 U+0024
+b	b	ʐbotɕu, ʐbə	2	U+0062
+c	c	medicine	1	U+0063
+d	d	medicine, ɣdu:	5	U+0064
+d$	d	buzd	2	U+0064 U+0024
+dʐ	ɖʐ	miɑuʁdʐue, ʁdʐe	3	U+0064 U+0290
+dʑ	dʑ	ʑdʑy, ʑdʑi?	7	U+0064 U+0291
+dʑ$	dʑ	ʑdʑ	1	U+0064 U+0291 U+0024
+e	e	steke, sei	50	U+0065
+e$	e	le, se	100	U+0065 U+0024
+e:$	eː	le:, tse:	7	U+0065 U+003a U+0024
+e:ʴ	ʴ/eː	ʂəʂe:ʴwu, le:ʴwu	2	U+0065 U+003a U+02b4
+e:ʴ$	ʴ/eː	meʴʐe:ʴ, ʂpe:ʴ	5	U+0065 U+003a U+02b4 U+0024
+eʴ	ʴ/e	ɕtɕeʴpɕtɕeʴp, qeʴlotʂu	14	U+0065 U+02b4
+eʴ$	ʴ/e	qeʴ, gueʴ	10	U+0065 U+02b4 U+0024
+e̊$	e̥/e	we̊	1	U+0065 U+030a U+0024
+f	f	pefutsə, pɑufu	8	U+0066
+g	g	ʐguə, ʐgue	8	U+0067
+h	h	stuɑhɑ, maha	7	U+0068
+i	i	χaiʂəχuijələjitian, tɕiu	100	U+0069
+i!$	i	hai!, hi!	3	U+0069 U+0021 U+0024
+i$	i	tɕi, ɕi	100	U+0069 U+0024
+i:	iː	ȵi:tsəi, ɕtɕi:mi	3	U+0069 U+003a
+i:$	iː	ȵi:, mi:	7	U+0069 U+003a U+0024
+j	j	tijikuojautɕhiu, khuoji	11	U+006a
+k	k	steke, ȵike	25	U+006b
+k$	k	ək	1	U+006b U+0024
+kh	kʰ	jankhui, likhemu	5	U+006b U+0068
+l	l	ɦɑlɑ, ɣlu	39	U+006c
+l$	l	bəl, gul	14	U+006c U+0024
+m	m	ʐmə, ʐmu	23	U+006d
+m$	m	əm, ʂua:m	5	U+006d U+0024
+n	n	kɑntɕhi, kɑnthɑn	58	U+006e
+n$	n	jin, tin	60	U+006e U+0024
+ns	n s	pənsə	1	U+006e U+0073
+nʂ	n ʂ	sunʂə, tshenʂə	4	U+006e U+0282
+nʐ	n ʐ	sənʐə, shenʐə	2	U+006e U+0290
+o	o	noʁu, kou	34	U+006f
+o$	o	mo, tɕo	17	U+006f U+0024
+o:	oː	ʐo:puɑ, ʐo:pɑ	3	U+006f U+003a
+p	p	ɑpə, ʂpə	72	U+0070
+p$	p	ʂp, skup	14	U+0070 U+0024
+ph	pʰ	gɑnphai	1	U+0070 U+0068
+pɕ	p ɕ	ɕtɕeʴpɕtɕeʴp	1	U+0070 U+0255
+q	q	tʂhəqtʂhɑqtʂhəqtʂhɑq, ts̥əqɑ	33	U+0071
+q$	q	qutaq, məq	26	U+0071 U+0024
+qh	qʰ	qhəʴqhəʴ, χsutsqhɑ	4	U+0071 U+0068
+s	s	suəsuɑ, qusu	16	U+0073
+s$	s	bəs, qes	7	U+0073 U+0024
+message	m ɛ s ɪ dʒ	message	1	U+0073 U+0073
+t	t	steke, stu	55	U+0074
+t$	t	wet, ʁɑt	5	U+0074 U+0024
+th	tʰ	kɑnthɑn, ʂputhuʂ	8	U+0074 U+0068
+ts	ts	pefutsə, kuȵɑtsə	16	U+0074 U+0073
+tsh	tsʰ	wətshi, phɑntshə	5	U+0074 U+0073 U+0068
+tttʂ	t ʈʂ	kɑpətttʂ	1	U+0074 U+0074
+tɕ	tɕ	ɕtɕi, xʂuɕtɕu	47	U+0074 U+0255
+tɕ$	tɕ	ɕtɕ, pitɕ	3	U+0074 U+0255 U+0024
+tɕh	tɕʰ	kɑntɕhi, ʁɑtɕhi	9	U+0074 U+0255 U+0068
+tʂ	ʈʂ	thuntʂə, thontʂə	24	U+0074 U+0282
+tʂ$	ʈʂ	kɑpətttʂ, kɑpətʂ	8	U+0074 U+0282 U+0024
+tʂh	ʈʂʰ	tʂhəqtʂhɑqtʂhəqtʂhɑq, wutʂhu	6	U+0074 U+0282 U+0068
+u	u	phusuluq, qutaq	100	U+0075
+u$	u	wu, qu	100	U+0075 U+0024
+u:$	uː	ɣdu:	1	U+0075 U+003a U+0024
+u̥	w	g̥u̥ə, ɑŋ̥u̥ə	4	U+0075 U+0325
+w	w	sawu, ʂəʂə:ʴwu	15	U+0077
+w$	w	lɑw, ew	5	U+0077 U+0024
+x$	x	meʴx	1	U+0078 U+0024
+xʂ	x ʂ	phuxʂu	2	U+0078 U+0282
+y	y	jyɑ, tɕymi	6	U+0079
+y$	y	jy, tɕy	10	U+0079 U+0024
+z	z	ʁza, buzd	22	U+007a
+z$	z	gəz, ɑz	5	U+007a U+0024
+zz	dz	tsəzzi, ȵizzi	10	U+007a U+007a
+tʂßh	ʈʂʰ	tʂßhue	1	U+00df U+0068
+ü	y	hüa	1	U+00fc
+ŋ	ŋ	tuŋtuŋ, ɦɑŋů	3	U+014b
+ŋ$	ŋ	tuŋtuŋ	2	U+014b U+0024
+ŋ̥u̥	ŋ w	ɑŋ̥u̥ə	1	U+014b U+0325
+ũ$	ũ	ʔũ, stũ	2	U+0169 U+0024
+ů	u	otsůquɑ	1	U+016f
+ů$	u	ʁů, jů	16	U+016f U+0024
+ȵ	ȵ	ŋuəȵi, kuȵɑtsə	7	U+0235
+ɑ	ɑ	lɑw, ɦɑlɑ	100	U+0251
+ɑ$	ɑ	lɑ, thɑ	100	U+0251 U+0024
+ɑ:	ɑː	ʐɑ:?	1	U+0251 U+003a
+ɑ:$	ɑː	kɑ:, pɑ:	21	U+0251 U+003a U+0024
+ɕ	ɕ	xʂuɕtɕu, ɕtɕəɕtɕɑq	10	U+0255
+ə	ə	zəpəq, fən	100	U+0259
+ə$	ə	jə, lə	100	U+0259 U+0024
+ə:$	əː	kə:	2	U+0259 U+003a U+0024
+ə:ʴ	əʴ/əː	mə:ʴwu, ʂəʂə:ʴwu	2	U+0259 U+003a U+02b4
+ə:ʴ$	əʴ/əː	tɕiqə:ʴ, qə:ʴ	2	U+0259 U+003a U+02b4 U+0024
+əʴ	əʴ/ə	afəʴali, pəʴʐ	7	U+0259 U+02b4
+əʴ$	əʴ/ə	ləʴ, məʴ	7	U+0259 U+02b4 U+0024
+ə̃ʴ	ə̃ʴ/ə̃	ɦə̃ʴɦə̃ʴ	1	U+0259 U+0303 U+02b4
+ə̃ʴ$	ə̃ʴ/ə̃	ɦə̃ʴɦə̃ʴ	1	U+0259 U+0303 U+02b4 U+0024
+ə̥$	ə	ŋ̥u̥ə̥	1	U+0259 U+0325 U+0024
+ɣ	ɣ	ȵiɣi, iɣi	3	U+0263
+ɦ	ɦ	ɦə̃ʴɦə̃ʴ	1	U+0266
+ɬ	ɬ	uɬu, χɬɑ:	3	U+026c
+ɸ	ɸ	səɸů	1	U+0278
+ɸ$	ɸ	səɸ	1	U+0278 U+0024
+ʁ	ʁ	noʁu, miɑuʁdʐue	14	U+0281
+ʁ$	ʁ	wɑʁ	1	U+0281 U+0024
+ʂ	ʂ	χaiʂə, ʂpaʂpa	11	U+0282
+ʂ$	ʂ	ʂputhuʂ, ʂpəthuʂ	6	U+0282 U+0024
+ʐ	ʐ	meʴʐe:ʴ, ataʐə	6	U+0290
+ʐ$	ʐ	pəʴʐ, meʴʐ	3	U+0290 U+0024
+ʑ	ʑ	qəʑdʑi	1	U+0291
+ʔ	ʔ	ʂəʔəʴsui	1	U+0294
+χ	χ	χanχa:, ʁuɑχɑ	9	U+03c7
+χ$	χ	meʴχ, lɑχ	2	U+03c7 U+0024
