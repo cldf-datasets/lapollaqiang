@@ -1,3 +1,8 @@
+---
+geometry:
+- top=30mm
+- left=20mm
+---
 # Source code and data accompanying the study «Towards a sustainable handling of inter-linear-glossed text in language documentation»
 
 This little repository is intended to run the users through the workflow described in the paper.
@@ -50,7 +55,11 @@ First, we want to load the data. So we start an interactive Python session and t
 
 ```python
 >>> from pyigt import Glosses
->>> texts = Glosses('qiang-igt.tsv', row='text', sep=' ', sepB='-')
+>>> texts = Glosses(
+        'qiang-igt.tsv', 
+        row='text', 
+        sep=' ', 
+        sepB='-')
 ```
 
 We can now query the text quickly:
@@ -61,6 +70,7 @@ We can now query the text quickly:
 
 The result is a very unspectacular rendering of all phrases and glosses in Text 1 of the resource.
 
+|                       |                       |                      |                |                  |
 |:----------------------|:----------------------|:---------------------|:---------------|:-----------------|
 | zəp-le:               | ȵi-ke:                | pe-ji                |                |                  |
 | earth-DEF:CL          | WH-INDEF:CL           | become-CSM           |                |                  |
@@ -136,6 +146,7 @@ We can also check the number of morphemes and words in our little resource:
 ```
 This yields the following table:
 
+|  |  |
 |:------|:----------|
 | words | morphemes |
 | 3932  | 8205      |
@@ -218,9 +229,12 @@ There are three basic types of concordance which can be created: basic concordan
 This can be done in a straightforward way (erroneous forms as identified in the previous steps are ignored):
 
 ```python
->>> texts.get_concordance(ctype='forms', filename='output/form-concordance.tsv')
->>> texts.get_concordance(ctype='lexicon', filename='output/lexical-concordance.tsv')
->>> texts.get_concordance(ctype='grammar', filename='output/grammatical-concordance.tsv')
+>>> texts.get_concordance(ctype='forms', 
+        filename='output/form-concordance.tsv')
+>>> texts.get_concordance(ctype='lexicon', 
+        filename='output/lexical-concordance.tsv')
+>>> texts.get_concordance(ctype='grammar', 
+        filename='output/grammatical-concordance.tsv')
 ```
 
 The concordances that are created with these principle yield a full trace to each word in each original phrase. They can be used in further steps to normalize the data or to link it to reference catalogs.
@@ -230,8 +244,10 @@ The concordances that are created with these principle yield a full trace to eac
 Once we have inferred our concordances, we can also create concept lists, both for grammatical and for lexical entries:
 
 ```python
->>> texts.get_concepts(ctype='lexicon', filename='output/automated-concepts.tsv')
->>> texts.get_concepts(ctype='grammar', filename='output/automated-glosses.tsv')
+>>> texts.get_concepts(ctype='lexicon', 
+        filename='output/automated-concepts.tsv')
+>>> texts.get_concepts(ctype='grammar', 
+        filename='output/automated-glosses.tsv')
 ```
 
 While there is no Grammaticon to which we could link our grammatical concepts, we can add the full names for each grammatical concept from the resource. This has do be done manually, but it does not take much time, and it has also revealed that the abbreviation list in the resource lacks a description for the abbreviation REDUP. The list of grammatical concepts is provided as `etc/glosses.tsv`. 
@@ -255,7 +271,9 @@ As we can see from the output, as many as 421 concepts can be automatically link
 The transcriptions in the original resource are not necessarily standardized. We can use the `pyigt` library again to make a first `orthography profile` which we can then use to further standardize the data.
 
 ```python
->>> texts.get_profile(filename='output/automated-orthograpy.tsv', clts_dir='clts')
+>>> texts.get_profile(
+        filename='output/automated-orthograpy.tsv', 
+        clts_dir='clts')
 ```
 
 This will create an initial orthography profile that can be further refined by the users. Our refined version can be found in `etc/orthography.tsv`. 
@@ -265,7 +283,10 @@ This will create an initial orthography profile that can be further refined by t
 Once created and manually corrected, we can use our improved transcriptions to search for language-internal cognates. We do this, by envoking the folowing command, which will segmentize the transcriptions, iterate over all data, compare words which have the same grammatical and lexical gloss, and place them in the same cognate set, labelled as `CROSSID`, if their similarity is below a certain threshold.
 
 ```python
->>> texts.get_wordlist(doculect='Qiang', profile='etc/orthography.tsv', filename='qiang-wordlist.tsv')
+>>> texts.get_wordlist(
+        doculect='Qiang', 
+        profile='etc/orthography.tsv', 
+        filename='qiang-wordlist.tsv')
 ```
 
 The resulting wordlist `qiang-wordlist.tsv` can be conveniently inspected with help of the EDICTOR tool.
