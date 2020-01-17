@@ -1,24 +1,45 @@
 """
 
 """
-from pyigt import Glosses2
+from pyigt import Corpus
 from cldfbench_lapollaqiang import Dataset
+from cldfbench.cli_util import add_catalog_spec
 
 
 def register(parser):
-    pass
+    add_catalog_spec(parser, 'clts')
 
 
 def run(args):
-    text = Glosses2(Dataset().cldf_reader())
+    ds = Dataset()
+    output = ds.dir / 'output'
+    text = Corpus(ds.cldf_reader())
     text.check_glosses()
 
-    #text.get_concordance(ctype='grammar')
-    #text.get_concordance(ctype='lexicon', filename='output/lexical-concordance.tsv')
-    #text.get_concordance(ctype='forms', filename='output/form-concordance.tsv')
-    #text.get_concepts(ctype='lexicon', filename='output/automated-concepts.tsv')
-    #text.get_concepts(ctype='grammar', filename='output/automated-glosses.tsv',)
-    #text.get_wordlist(filename='qiang-wordlist', doculect='Qiang',
-    #        profile='etc/orthography.tsv')
-    #text.get_profile(filename='output/automated-orthography.tsv')
-    #text.get_app()
+    con = text.get_concordance(ctype='grammar')
+    text.write_concordance(con, filename=output / 'grammatical-concordance.tsv')
+
+    con = text.get_concordance(ctype='lexicon')
+    text.write_concordance(con, filename=output / 'lexical-concordance.tsv')
+
+    con = text.get_concordance(ctype='forms')
+    text.write_concordance(con, filename=output / 'form-concordance.tsv')
+
+    res = text.get_concepts(ctype='lexicon')
+    text.write_concepts(res[0], res[1], filename=output / 'automated-concepts.tsv')
+
+    res = text.get_concepts(ctype='grammar')
+    text.write_concepts(res[0], res[1], filename=output / 'automated-glosses.tsv')
+
+    wl = text.get_wordlist(doculect='Qiang', profile=ds.etc_dir / 'orthography.tsv')
+    wl.output(
+        'tsv',
+        filename='qiang-wordlist',
+        prettify=False,
+        ignore='all',
+        subset=True,
+        cols=[h for h in wl.columns] + ['crossid'])
+
+    profile = text.get_profile(clts=args.clts.api)
+    text.write_profile(profile, filename=ds.dir / 'output' / 'automated-orthography.tsv')
+    text.write_app(dest=ds.dir / 'app')
