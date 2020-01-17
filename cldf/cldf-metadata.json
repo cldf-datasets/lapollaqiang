@@ -14,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lingpy/igt-paper",
-            "dc:created": "d82fb84"
+            "dc:created": "54ca959"
         },
         {
             "rdf:type": "prov:Entity",
@@ -172,6 +172,14 @@
                     {
                         "datatype": "string",
                         "name": "Text_ID"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Sentence_Number"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Phrase_Number"
                     }
                 ],
                 "foreignKeys": [
