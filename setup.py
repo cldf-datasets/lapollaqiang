@@ -9,7 +9,10 @@ setup(
     entry_points={
         'cldfbench.dataset': [
             'lapollaqiang=cldfbench_lapollaqiang:Dataset',
-        ]
+        ],
+        'cldfbench.commands': [
+            'igt-paper=commands',
+        ],
     },
     install_requires=[
         'cldfbench',
