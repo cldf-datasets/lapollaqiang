@@ -2,7 +2,7 @@ from lingpy import *
 from clldutils.text import strip_chars
 from tabulate import tabulate
 
-data = open('Qiang-2.txt').readlines()
+data = open('raw/Qiang-2.txt').readlines()
 
 D = {}
 T = {}
