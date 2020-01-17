@@ -45,7 +45,7 @@ class Dataset(BaseDataset):
                         'ID': example_number,
                         'Primary_Text': ' '.join(p[0] for p in phrase),
                         'Analyzed_Word': [p[0] for p in phrase],
-                        'Gloss': [p[0] for p in phrase],
+                        'Gloss': [p[1] for p in phrase],
                         'Text_ID': text_id,
                         'Language_ID': 'qiang',
                         'Sentence_Number': sid,
