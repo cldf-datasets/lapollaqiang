@@ -5,6 +5,8 @@ from clldutils.text import strip_chars
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec
 
+QUOTES = '“”'
+
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -56,7 +58,7 @@ def iter_phrases(chunks):
     phrase = []
     for text, gloss in chunks:
         phrase.append((text, gloss))
-        if text[-1] in phrase_end:
+        if strip_chars(QUOTES, text)[-1] in phrase_end:
             yield phrase[:]
             phrase = []
     assert phrase
@@ -68,7 +70,7 @@ def iter_sentences(chunks):
     sentence = []
     for text, gloss in chunks:
         sentence.append((text, gloss))
-        if text[-1] in sentence_end:
+        if strip_chars(QUOTES, text)[-1] in sentence_end:
             yield sentence[:]
             sentence = []
     assert not sentence

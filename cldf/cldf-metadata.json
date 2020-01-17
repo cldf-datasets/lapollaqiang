@@ -14,7 +14,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lingpy/igt-paper",
-            "dc:created": "54ca959"
+            "dc:created": "eb28ec9"
         },
         {
             "rdf:type": "prov:Entity",
@@ -113,7 +113,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 1153,
+            "dc:extent": 1276,
             "tableSchema": {
                 "columns": [
                     {
