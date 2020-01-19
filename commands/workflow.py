@@ -16,20 +16,13 @@ def run(args):
     text = Corpus(ds.cldf_reader())
     text.check_glosses()
 
-    con = text.get_concordance(ctype='grammar')
-    text.write_concordance(con, filename=output / 'grammatical-concordance.tsv')
+    text.write_concordance('grammar', filename=output / 'grammatical-concordance.tsv')
+    text.write_concordance('lexicon', filename=output / 'lexical-concordance.tsv')
+    text.write_concordance('forms', filename=output / 'form-concordance.tsv')
 
-    con = text.get_concordance(ctype='lexicon')
-    text.write_concordance(con, filename=output / 'lexical-concordance.tsv')
+    text.write_concepts('lexicon', filename=output / 'automated-concepts.tsv')
 
-    con = text.get_concordance(ctype='forms')
-    text.write_concordance(con, filename=output / 'form-concordance.tsv')
-
-    res = text.get_concepts(ctype='lexicon')
-    text.write_concepts(res[0], res[1], filename=output / 'automated-concepts.tsv')
-
-    res = text.get_concepts(ctype='grammar')
-    text.write_concepts(res[0], res[1], filename=output / 'automated-glosses.tsv')
+    text.write_concepts('grammar', filename=output / 'automated-glosses.tsv')
 
     wl = text.get_wordlist(doculect='Qiang', profile=ds.etc_dir / 'orthography.tsv')
     wl.output(
