@@ -13,12 +13,12 @@ def register(parser):
 def run(args):
     ds = Dataset()
     output = ds.dir / 'output'
-    text = Corpus(ds.cldf_reader())
+    text = Corpus.from_cldf(ds.cldf_reader())
     text.check_glosses()
 
     text.write_concordance('grammar', filename=output / 'grammatical-concordance.tsv')
     text.write_concordance('lexicon', filename=output / 'lexical-concordance.tsv')
-    text.write_concordance('forms', filename=output / 'form-concordance.tsv')
+    text.write_concordance('form', filename=output / 'form-concordance.tsv')
 
     text.write_concepts('lexicon', filename=output / 'automated-concepts.tsv')
 
