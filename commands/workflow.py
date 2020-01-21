@@ -21,7 +21,6 @@ def run(args):
     text.write_concordance('form', filename=output / 'form-concordance.tsv')
 
     text.write_concepts('lexicon', filename=output / 'automated-concepts.tsv')
-
     text.write_concepts('grammar', filename=output / 'automated-glosses.tsv')
 
     wl = text.get_wordlist(doculect='Qiang', profile=ds.etc_dir / 'orthography.tsv')
@@ -33,5 +32,5 @@ def run(args):
         subset=True,
         cols=[h for h in wl.columns])
 
-    profile = text.get_profile(clts=args.clts.api, filename=ds.dir / 'output' / 'automated-orthography.tsv')
+    text.get_profile(clts=args.clts.api, filename=ds.dir / 'output' / 'automated-orthography.tsv')
     text.write_app(dest=ds.dir / 'app')

@@ -5,18 +5,18 @@ geometry:
 ---
 # Source code and data accompanying the study «Towards a sustainable handling of inter-linear-glossed text in language documentation»
 
-This little repository is intended to run the users through the workflow described in the paper.
+This repository is intended to run the users through the workflow described in the paper.
 
 ## 1 Preliminaries
 
-We assume that users are familiar with the commandline on their respective system, that they have Python in a version equal or higher to 3.5 installed, and that they also have the GIT version control system on their machine.
+We assume that users are familiar with the commandline on their respective system, that they have Python in a version equal or higher to 3.5 installed, and that they also have the GIT version control software on their machine.
 
 ## 2 Getting started
 
 In order to run through the workflow, some preliminary packages must be downloaded or installed. We start by installing the required Python packages with help of the `pip` system.
 
 ```
-$ pip install -r requirements.txt
+$ pip install cldfbench
 ```
 
 Once the packages have been successfully installed, users can install the `pyigt` package submitted along with this repository by typing:
