@@ -16,6 +16,12 @@ setup(
     },
     install_requires=[
         'cldfbench',
+        'pyglottolog',
+        'pyconcepticon',
+        'pyclts',
+        'segments',
+        'lingpy',
+        'pyigt>=0.2',
     ],
     extras_require={
         'test': [
