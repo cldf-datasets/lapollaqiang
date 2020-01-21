@@ -102,123 +102,18 @@ Example properties:
   Phrase_Number
 ```
 
-The `Text_ID` property listed above can be used to filter IGTs for display:
+The `Text_ID` and `Gloss` properties listed above can be used to filter IGTs for display:
 ```shell script
-$ igt ls cldf/cldf-metadata.json -c Text_ID -m 1
+$ igt ls cldf/cldf-metadata.json Text_ID=1 Gloss=CSM
 Example 1:
 zəple: ȵike: peji qeʴlotʂuʁɑ,
 zəp-le:       ȵi-ke:       pe-ji       qeʴlotʂu-ʁɑ,
 earth-DEF:CL  WH-INDEF:CL  become-CSM  in.the.past-LOC
 
-Example 2:
-mutulɑ mujuqů ʐguəzi wei,
-mutu-lɑ     mujuqů    ʐguə-zi    we-i,
-heaven-LOC  sun       nine-CL    exist-HS
-
-Example 3:
-zəple: ətɕhəqhɑʐəi.
-zəp-le:       ə-tɕhəqhɑ-ʐ-əi.
-earth-DEF:CL  DIR-burn-CAUS-HS
-
-Example 4:
-mə ȵɑ ɣlu jətʂŋuəȵi,
-mə             ȵɑ    ɣlu             jə-tʂ-ŋuəȵi,
-older.brother  COM   younger.sister  two-CL-TOP
-
-Example 5:
-zuɑməɸu oʐgutɑ ipiχuɑȵi,
-zuɑmə-ɸu      o-ʐgu-tɑ    i-pi-χuɑ-ȵi,
-cypress-tree  one-CL-LOC  DIR-hide-because-ADV
-
-Example 6:
-ɦomuxtɕuwei.
-ɦo-mu-xtɕu-wei.
-DIR-NEG-burn-HS
-
-Example 7:
-steketɑ mi peʴʐəs ŋuəχuɑȵi,
-steke-tɑ    mi      peʴʐə-s           ŋuə-χuɑ-ȵi,
-later-LOC   people  raise(child)-NOM  COP-because-ADV
-
-Example 8:
-mə ȵɑ ɣlu ləzi idʐitɕi,
-mə             ȵɑ    ɣlu             lə-zi    i-dʐi-tɕi,
-older.brother  COM   younger.sister  DEF-CL   DIR-discuss-3pl
-
-Example 9:
-ȵutɕuku dzuɑʁl exʂe ɦeibiȵi,
-ȵutɕuku    dzuɑʁl      e-xʂe    ɦei-bi-ȵi,
-each       stone.mill  one-CL   DIR-carry.on.back-ADV
-
-Example 10:
-ʁuqtɑwu ɦoɣlu,
-ʁu-q-tɑ-wu             ɦo-ɣlu,
-mountain-head-LOC-ABL  DIR-roll
-
-Example 11:
-dzuɑʁl jəxʂe etʂetuptu,
-dzuɑʁl      jə-xʂe    e-tʂetup-tu,
-stone.mill  two-CL    DIR-bump.into-LNK
-
-Example 12:
-ȵizzi oqpi pəs,
-ȵizzi    oqpi        pə-s,
-3dl      one:family  do-NOM
-
-Example 13:
-dzuɑʁl jəxʂe ɦoɣlustɑ,
-dzuɑʁl      jə-xʂe    ɦo-ɣlu-s-tɑ,
-stone.mill  two-CL    DIR-roll-NOM-LOC
-
-Example 14:
-qhuɑt etʂetupwei,
-qhuɑt          e-tʂetup-wei,
-as.it.happens  DIR-bump.into-HS
-
-Example 15:
-ɦɑtsəiȵike,
-ɦɑ-tsəi-ȵike,
-INT-this.manner-after
-
-Example 16:
-mə ȵɑ ɣlu ləzi oqpi ɦopəi.
-mə             ȵɑ    ɣlu             lə-zi    oqpi        ɦo-pə-i.
-older.brother  COM   younger.sister  DEF-CL   one:family  DIR-do-HS
-
-Example 17:
-əjəp peȵi,
-ə-jə-p        pe-ȵi,
-one-two-year  become-ADV
-
-Example 18:
-ɣlule: mi qes mɑŋ̥u̥ə̥ ke: iɕi.
-ɣlu-le:                mi      qes    mɑ-ŋ̥u̥ə̥    ke:       i-ɕi.
-younger.sister-DEF:CL  people  form   NEG-COP   INDEF:CL  DIR-release
-
-Example 19:
-məle: təkhueq,
-mə-le:                tə-khueq,
-older.brother-DEF:CL  DIR-angry
-
-Example 20:
-duɑʁlle:wu səxteȵi tɕetɕilɑ daʁů.
-duɑʁl-le:-wu        sə-xte-ȵi     tɕetɕi-lɑ       da-ʁů.
-scythe-DEF:CL-INST  DIR-chop-LNK  everywhere-LOC  DIR-throw(away)
-
-Example 21:
-steke lɑsʁɑ,
-steke    lɑ-s-ʁɑ,
-later    DEF:one-day-LOC
-
 Example 22:
 tɕetɕilɑwu mufů təlɑji,
 tɕetɕi-lɑ-wu        mufů    tə-lɑ-ji,
 everywhere-LOC-ABL  smoke   DIR-come-CSM
-
-Example 23:
-ɦɑtsəiȵike,
-ɦɑ-tsəi-ȵike,
-INT-this.manner-after
 
 Example 24:
 mi luji.

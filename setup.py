@@ -21,7 +21,7 @@ setup(
         'pyclts',
         'segments',
         'lingpy',
-        'pyigt',
+        'pyigt>=0.2',
     ],
     extras_require={
         'test': [
