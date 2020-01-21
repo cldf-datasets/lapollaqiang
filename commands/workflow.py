@@ -31,7 +31,7 @@ def run(args):
         prettify=False,
         ignore='all',
         subset=True,
-        cols=[h for h in wl.columns] + ['crossid'])
+        cols=[h for h in wl.columns])
 
     profile = text.get_profile(clts=args.clts.api, filename=ds.dir / 'output' / 'automated-orthography.tsv')
     text.write_app(dest=ds.dir / 'app')

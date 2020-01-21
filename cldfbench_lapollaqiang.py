@@ -29,7 +29,8 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_table('texts.csv', 'ID', 'Title')
         args.writer.cldf.add_foreign_key('ExampleTable', 'Text_ID', 'texts.csv', 'ID')
 
-        args.writer.objects['LanguageTable'].append({'ID': 'qiang', 'Name': 'Qiang'})
+        args.writer.objects['LanguageTable'].append({'ID': 'qiang', 'Name':
+            'Qiang', 'Glottocode': 'west2876'})
 
         example_number = 0
         for text_id, title, lines in iter_texts(self.raw_dir.read('Qiang-2.txt').split('\n')):
