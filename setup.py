@@ -11,7 +11,7 @@ setup(
             'lapollaqiang=cldfbench_lapollaqiang:Dataset',
         ],
         'cldfbench.commands': [
-            'igt-paper=commands',
+            'lapollaqiang=commands',
         ],
     },
     install_requires=[
